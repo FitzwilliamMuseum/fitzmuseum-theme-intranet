@@ -21,6 +21,8 @@
     "gulp-zip": "^4.2.0",
     "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
-    "popper.js": "^1.15.0"
+    "popper.js": "^1.15.0",
+    "tar": ">=4.4.8",
+    "lodash": ">=4.17.11"
   }
 }
