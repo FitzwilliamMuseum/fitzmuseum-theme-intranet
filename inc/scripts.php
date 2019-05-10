@@ -17,7 +17,10 @@ function fitzmuseum_scripts() {
 	wp_enqueue_script( 'backtotop-js', get_template_directory_uri() . '/js/backtotop.js' );
 
 	wp_enqueue_script( 'zammad_form_script', 'https://helpdesk.fitzmuseum.cam.ac.uk/assets/form/form.js' );
+	wp_enqueue_script( 'zammad_chat_script', 'https://helpdesk.fitzmuseum.cam.ac.uk/assets/chat/chat.js' );
 	wp_enqueue_script( 'feedback-js', get_template_directory_uri() . '/js/feedback.js' );
+	wp_enqueue_script( 'chat-js', get_template_directory_uri() . '/js/chat.js' );
+
 	wp_enqueue_script( 'config-js', get_template_directory_uri() . '/js/config.js' );
 	wp_enqueue_script( 'klaro-js', get_template_directory_uri() .'/js/klaro.js' );
 
