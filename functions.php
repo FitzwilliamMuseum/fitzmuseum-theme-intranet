@@ -186,8 +186,3 @@ require get_template_directory() . '/inc/plugin-activation/install-plugins.php';
  * Metabox.
  */
 require get_template_directory() . '/inc/metabox.php';
-add_action('wp_enqueue_scripts', 'no_more_jquery');
-function no_more_jquery(){
-    wp_deregister_script('jquery');
-
-}
