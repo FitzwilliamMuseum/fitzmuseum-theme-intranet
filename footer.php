@@ -78,6 +78,17 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script src="http://fitz.wp/wp-content/themes/fitzwilliam/js/backtotop.js"></script>
+<script src="https://helpdesk.fitzmuseum.cam.ac.uk/assets/chat/chat.min.js"></script>
+<script>
+$(function() {
+  new ZammadChat({
+    background: '#1a6e78',
+    fontSize: '12px',
+    flat: true,
+    chatId: 1
+  });
+});
+</script>
 </body>
 </html>
