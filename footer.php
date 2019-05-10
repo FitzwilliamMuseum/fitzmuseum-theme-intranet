@@ -78,7 +78,7 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-<script src="http://fitz.wp/wp-content/themes/fitzwilliam/js/backtotop.js"></script>
+<script src="https://helpdesk.fitzmuseum.cam.ac.uk/wp-content/themes/fitzwilliam/js/backtotop.js"></script>
 <script src="https://helpdesk.fitzmuseum.cam.ac.uk/assets/chat/chat.min.js"></script>
 <script>
 $(function() {
