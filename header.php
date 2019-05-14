@@ -52,7 +52,7 @@
       <div class="container">
           <div class="row ">
             <div class="col-lg-12 col-xl-12 ">
-                <a href="https://fitzmuseum.cam.ac.uk"><img src="https://lookup.fitzmuseum.cam.ac.uk/static/img/logos/rainbow.png" class="align-self-center mr-3 float-left thumb-post bg-white p-3 shadow-lg"></a>
+                <a href="https://wwww.fitzmuseum.cam.ac.uk"><img src="https://lookup.fitzmuseum.cam.ac.uk/static/img/logos/rainbow.png" class="align-self-center mr-3 float-left thumb-post bg-white p-3 shadow-lg"></a>
             </div>
           </div>
       </div>
