@@ -347,3 +347,6 @@ footer.comment-meta {
   color: #731200 !important;
   font-weight: bold;
 }
+.navbar-brand {
+  display: none !important;
+}
