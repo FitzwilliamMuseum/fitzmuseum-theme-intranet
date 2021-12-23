@@ -5,6 +5,7 @@
   "main": "",
   "author": "Daniel Pett",
   "devDependencies": {
+    "ansi-regex": ">=5.0.1",
     "axios": ">=0.21.1",
     "bootstrap": "^4.3.1",
     "braces": ">=2.3.1",
@@ -28,6 +29,7 @@
     "lodash": "^4.17.19",
     "lodash.template": ">=4.5.0",
     "node-notifier": ">=8.0.1",
+    "nth-check": ">=2.0.1",
     "object-path": ">=0.11.5",
     "popper.js": "^1.15.0",
     "tar": "^4.4.10"
